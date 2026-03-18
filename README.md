@@ -48,5 +48,5 @@ Algorithmic-Trading/
 
 ## Author
 
-**Yugratna Shaurya**  Student, IIT Bombay  
+**Yugratna Shaurya**  - Student, IIT Bombay  
 Summer of Science 2024-25, IIT Bombay
